@@ -20,7 +20,7 @@ for (var i = 0; i < listItems.length; i++) {
 	listItems[i].className = "listitem";
 }
 
-//Creating  and adding Image
+//Creating  and adding Image 
 var image = document.createElement('img');
 image.src = "http://lorempixel.com/200/200/cats/1";
 aboutMe[0].appendChild(image);
